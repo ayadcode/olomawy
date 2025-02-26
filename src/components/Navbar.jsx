@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Image from "./image";
+import Image from "./Image.jsx";
 import { Link } from "react-router-dom";
 import {
   SignedIn,
